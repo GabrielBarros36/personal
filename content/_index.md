@@ -8,7 +8,9 @@ draft: false
 ---
 
 ### Currently
-I'm an intern at Netflix in the Video Algorithms Systems team. I just finished my 3rd year studying Math and CS at Florida State University, and I'm looking for interesting things to work on - if you have any ideas please reach out!
+I'm an intern at Netflix in the Video Algorithms Systems team. 
+
+I just finished my 3rd year studying Math and CS at Florida State University, and I'm looking for interesting ideas to work on - please reach out!
 
 ### Contact
 
