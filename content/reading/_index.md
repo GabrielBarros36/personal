@@ -12,7 +12,8 @@ draft: false
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
-- [Geoffrey Huntley: (...) yes, AI is here](https://ghuntley.com/screwed/)
+- [Sam Altman - The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
+- [Geoffrey Huntley - (...) yes, AI is here](https://ghuntley.com/screwed/)
 - [Patrick Collison's Bookshelf](https://patrickcollison.com/bookshelf)
 - [Mark Andreessen's Guide to Career Planning](https://pmarchive.com/guide_to_career_planning_part0.html)
 - [Intelligence Arbitrage](https://sdan.io/blog/intelligence-arbitrage)
