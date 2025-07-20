@@ -8,7 +8,7 @@ draft: false
 ---
 
 ### Currently
-I'm an intern at Netflix in the Video Algorithms Systems team. 
+I'm an intern at Netflix in the Video Algorithms Systems team. I'm working on research infrastructure to automate bitrate ladder generation for Netflix's live events and to benchmark new encoders with Netflix's test suite.
 
 I just finished my 3rd year studying Math and CS at Florida State University, and I'm looking for interesting ideas to work on - please reach out!
 
