@@ -12,6 +12,7 @@ draft: false
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
+- [The XY Problem](https://xyproblem.info/)
 - [Sam Altman - The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 - [Geoffrey Huntley - (...) yes, AI is here](https://ghuntley.com/screwed/)
 - [Patrick Collison's Bookshelf](https://patrickcollison.com/bookshelf)
@@ -29,6 +30,7 @@ draft: false
 ## Books
 |Title|Author|
 |-----|------|
+|Siddhartha|Hermann Hesse|
 |Zen and the Art of Motorcycle Maintenance|Robert Pirsig|
 |Mere Christianity|C.S. Lewis|
 |Poor Charlie's Almanack| Charlie Munger|
@@ -36,7 +38,7 @@ draft: false
 |The Old Man and the Sea|Ernest Hemingway|
 |The Lean Startup|Eric Ries|
 |There is no Antimemetics Division|qntm|
-|Godel, Escher, Bach: an Eternal Golden Braid|Douglas|Hofstaetder|
+|Godel, Escher, Bach: an Eternal Golden Braid|Douglas Hofstaetder|
 |The Rise of Theodore Roosevelt|Edmund Morris|
 |Animal Farm|George Orwell|
 |Robot Series|Isaac Asimov|
