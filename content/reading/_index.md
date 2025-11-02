@@ -6,6 +6,24 @@ toc: false
 draft: false
 ---
 
+Some of my favorites.
+
+## Books
+|Title|Author|
+|-----|------|
+|Siddhartha|Hermann Hesse|
+|Zen and the Art of Motorcycle Maintenance|Robert Pirsig|
+|Mere Christianity|C.S. Lewis|
+|Poor Charlie's Almanack| Charlie Munger|
+|Thinking in Systems: A Primer|Donella Meadows|
+|The Old Man and the Sea|Ernest Hemingway|
+|The Lean Startup|Eric Ries|
+|There is no Antimemetics Division|qntm|
+|Godel, Escher, Bach: an Eternal Golden Braid|Douglas Hofstaetder|
+|The Rise of Theodore Roosevelt|Edmund Morris|
+|Animal Farm|George Orwell|
+|Robot Series|Isaac Asimov|
+
 ## Essays/Short Stories
 - [Coding Machines, by Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/coding-machines/)
 - [Lena, by qntm](https://qntm.org/mmacevedo)
@@ -26,19 +44,3 @@ draft: false
 - [Aaron Swartz - HOWTO: Be more productive](http://www.aaronsw.com/weblog/productivity)
 - [Andrew Gallant - Error Handling in Rust](https://burntsushi.net/rust-error-handling/)
 - [Paul Graham's Essays](https://paulgraham.com/articles.html)
-
-## Books
-|Title|Author|
-|-----|------|
-|Siddhartha|Hermann Hesse|
-|Zen and the Art of Motorcycle Maintenance|Robert Pirsig|
-|Mere Christianity|C.S. Lewis|
-|Poor Charlie's Almanack| Charlie Munger|
-|Thinking in Systems: A Primer|Donella Meadows|
-|The Old Man and the Sea|Ernest Hemingway|
-|The Lean Startup|Eric Ries|
-|There is no Antimemetics Division|qntm|
-|Godel, Escher, Bach: an Eternal Golden Braid|Douglas Hofstaetder|
-|The Rise of Theodore Roosevelt|Edmund Morris|
-|Animal Farm|George Orwell|
-|Robot Series|Isaac Asimov|

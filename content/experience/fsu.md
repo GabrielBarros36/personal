@@ -10,16 +10,16 @@ highlightSubtitle: true
 weight: 0
 ---
 
-Since August 2022, I've been an undergrad at [Florida State University](https://www.fsu.edu/) studying CS and Math.
-
-### Consulting
-
-In my freshman year I was an international competitor at FSU's [Case Competition Club](https://www.linkedin.com/company/fsu-case-competition-club/about/). I represented FSU at the [Scotiabank International Case Competition](https://www.ivey-sicc.com/) hosted by [Ivey Business School](https://www.ivey.uwo.ca/), along with [Pedro](https://www.linkedin.com/in/pedromartinsaffonso/), [Bruno](https://www.linkedin.com/in/brunobdelnero/), and [Cole](https://www.linkedin.com/in/coleclemons/). 
-
+Since August 2022, I've been an undergrad at [Florida State University](https://www.fsu.edu/) studying Computer Science and Math. 
 
 ### Academics
 
 I like the CS + Math combo because it provides me with a rigorous foundation at the logical and engineering levels - the rest, I am more comfortable learning outside of classes.
+
+##### Fall 2025
+* **MAS 4302** - Abstract Algebra
+* **PHY 2048C** - Physics 1
+* **STA 3032** - Applied Statistics
 
 ##### Spring 2025
 * **MAA 4226** - Real Analysis
@@ -60,3 +60,8 @@ I like the CS + Math combo because it provides me with a rigorous foundation at 
 * **MAD 2104** - Discrete Math I
 * **ACG 2021** - Financial Accounting 
 * **ENC 2135** - Research, Genre, and Context
+
+
+### Consulting
+
+In my freshman year I was an international competitor at FSU's [Case Competition Club](https://www.linkedin.com/company/fsu-case-competition-club/about/). I represented FSU at the [Scotiabank International Case Competition](https://www.ivey-sicc.com/) hosted by [Ivey Business School](https://www.ivey.uwo.ca/), along with [Pedro](https://www.linkedin.com/in/pedromartinsaffonso/), [Bruno](https://www.linkedin.com/in/brunobdelnero/), and [Cole](https://www.linkedin.com/in/coleclemons/).
