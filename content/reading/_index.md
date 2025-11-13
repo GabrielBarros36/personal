@@ -25,11 +25,13 @@ Some of my favorites.
 |Robot Series|Isaac Asimov|
 
 ## Essays/Short Stories
+- [The Inner Ring, by C.S. Lewis](https://www.lewissociety.org/innerring/)
 - [Coding Machines, by Lawrence Kesteloot](https://www.teamten.com/lawrence/writings/coding-machines/)
 - [Lena, by qntm](https://qntm.org/mmacevedo)
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
+- [The New World (Josh Kushner profile)](https://joincolossus.com/article/joshua-kushner-thrive-new-world/)
 - [The XY Problem](https://xyproblem.info/)
 - [Sam Altman - The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
 - [Geoffrey Huntley - (...) yes, AI is here](https://ghuntley.com/screwed/)
