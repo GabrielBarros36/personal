@@ -31,8 +31,9 @@ Some of my favorites.
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
+- [The Bet On Juniors Just Got Better](https://tidyfirst.substack.com/p/the-bet-on-juniors-just-got-better)
 - [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
-- [If You’re Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html)
+- [If You're Going to Vibe Code, Why Not Do It in C?](https://stephenramsay.net/posts/vibe-coding.html)
 - [The New World (Josh Kushner profile)](https://joincolossus.com/article/joshua-kushner-thrive-new-world/)
 - [The XY Problem](https://xyproblem.info/)
 - [Sam Altman - The Gentle Singularity](https://blog.samaltman.com/the-gentle-singularity)
