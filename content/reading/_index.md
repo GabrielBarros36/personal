@@ -11,6 +11,7 @@ Some of my favorites.
 ## Books
 |Title|Author|
 |-----|------|
+|The Razor's Edge|W. Somerset Maugham|
 |Siddhartha|Hermann Hesse|
 |Zen and the Art of Motorcycle Maintenance|Robert Pirsig|
 |Mere Christianity|C.S. Lewis|
@@ -23,7 +24,6 @@ Some of my favorites.
 |The Rise of Theodore Roosevelt|Edmund Morris|
 |Animal Farm|George Orwell|
 |Robot Series|Isaac Asimov|
-|The Razor's Edge|W. Somerset Maugham|
 
 ## Essays/Short Stories
 - [The Inner Ring, by C.S. Lewis](https://www.lewissociety.org/innerring/)
