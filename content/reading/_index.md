@@ -11,6 +11,7 @@ Some of my favorites.
 ## Books
 |Title|Author|
 |-----|------|
+|For Whom the Bell Tolls|Ernest Hemingway|
 |The Razor's Edge|W. Somerset Maugham|
 |Siddhartha|Hermann Hesse|
 |Zen and the Art of Motorcycle Maintenance|Robert Pirsig|
