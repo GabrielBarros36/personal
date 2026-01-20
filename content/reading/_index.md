@@ -30,6 +30,8 @@ draft: false
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
+- [AI’s trillion-dollar opportunity: Context graphs](https://ashugarg.substack.com/p/ais-trillion-dollar-opportunity-context)
+- [Long Live Systems of Record](https://cloudedjudgement.substack.com/p/clouded-judgement-121225-long-live)
 - [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 - [The Bet On Juniors Just Got Better](https://tidyfirst.substack.com/p/the-bet-on-juniors-just-got-better)
 - [My productivity app is a never-ending .txt file](https://jeffhuang.com/productivity_text_file/)
