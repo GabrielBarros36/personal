@@ -5,9 +5,6 @@ date:
 toc: false
 draft: false
 ---
-
-Some of my favorites.
-
 ## Books
 |Title|Author|
 |-----|------|
