@@ -30,8 +30,9 @@ draft: false
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
-- [A Day in the Life of the World’s Most AI Forward Company](https://www.generalintelligencecompany.com/writing/a-day-in-the-life-of-the-world-s-most-ai-forward-company)
-- [AI’s trillion-dollar opportunity: Context graphs](https://ashugarg.substack.com/p/ais-trillion-dollar-opportunity-context)
+- [Moltbook](https://simonwillison.net/2026/Jan/30/moltbook/)
+- [A Day in the Life of the World's Most AI Forward Company](https://www.generalintelligencecompany.com/writing/a-day-in-the-life-of-the-world-s-most-ai-forward-company)
+- [AI's trillion-dollar opportunity: Context graphs](https://ashugarg.substack.com/p/ais-trillion-dollar-opportunity-context)
 - [Long Live Systems of Record](https://cloudedjudgement.substack.com/p/clouded-judgement-121225-long-live)
 - [The Bitter Lesson](https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf)
 - [The Bet On Juniors Just Got Better](https://tidyfirst.substack.com/p/the-bet-on-juniors-just-got-better)
