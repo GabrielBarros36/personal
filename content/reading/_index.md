@@ -30,6 +30,7 @@ draft: false
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
+- [Karpathy - Finding the best sleep tracker](https://karpathy.bearblog.dev/finding-the-best-sleep-tracker/)
 - [Moltbook](https://simonwillison.net/2026/Jan/30/moltbook/)
 - [A Day in the Life of the World's Most AI Forward Company](https://www.generalintelligencecompany.com/writing/a-day-in-the-life-of-the-world-s-most-ai-forward-company)
 - [AI's trillion-dollar opportunity: Context graphs](https://ashugarg.substack.com/p/ais-trillion-dollar-opportunity-context)
