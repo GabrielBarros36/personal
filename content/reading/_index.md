@@ -8,6 +8,7 @@ draft: false
 ## Books
 |Title|Author|
 |-----|------|
+|Slaughterhouse-Five|Kurt Vonnegut|
 |For Whom the Bell Tolls|Ernest Hemingway|
 |The Razor's Edge|W. Somerset Maugham|
 |Siddhartha|Hermann Hesse|
@@ -22,7 +23,6 @@ draft: false
 |The Rise of Theodore Roosevelt|Edmund Morris|
 |Animal Farm|George Orwell|
 |Robot Series|Isaac Asimov|
-|Slaughterhouse-Five|Kurt Vonnegut|
 
 ## Essays/Short Stories
 - [The Inner Ring, by C.S. Lewis](https://www.lewissociety.org/innerring/)
