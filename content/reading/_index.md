@@ -30,6 +30,7 @@ draft: false
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
+- [How to write a cold email](https://sriramk.com/coldemail)
 - [Ben Kuhn - Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/)
 - [Ben Kuhn - Be Impatient](https://www.benkuhn.net/impatient/)
 - [Karpathy - Finding the best sleep tracker](https://karpathy.bearblog.dev/finding-the-best-sleep-tracker/)
