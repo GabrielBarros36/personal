@@ -31,6 +31,7 @@ draft: false
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
+- [Karpathy - Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 - [How to write a cold email](https://sriramk.com/coldemail)
 - [Ben Kuhn - Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/)
 - [Ben Kuhn - Be Impatient](https://www.benkuhn.net/impatient/)
