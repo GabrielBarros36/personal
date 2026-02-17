@@ -31,6 +31,8 @@ draft: false
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
+- [Rafael Caricio - An Exercise in Agentic Coding: AV1 Encoder from Scratch in Rust](https://caricio.com/blog/an-exercise-in-agentic-coding-av1-encoder-from-scratch-in-rust/)
+- [Dealing with abandonware](https://blog.hris.to/dealing-with-abandonware.html)
 - [Karpathy - Biohacking Lite](https://karpathy.github.io/2020/06/11/biohacking-lite/)
 - [How to write a cold email](https://sriramk.com/coldemail)
 - [Ben Kuhn - Staring into the abyss as a core life skill](https://www.benkuhn.net/abyss/)
