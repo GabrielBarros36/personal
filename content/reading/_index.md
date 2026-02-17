@@ -31,6 +31,7 @@ draft: false
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
+- [Mitchell Hashimoto - My AI Adoption Journey](https://mitchellh.com/writing/my-ai-adoption-journey)
 - [Mitchell Hashimoto - Building Large Technical Projects](https://mitchellh.com/writing/building-large-technical-projects)
 - [Rafael Caricio - An Exercise in Agentic Coding: AV1 Encoder from Scratch in Rust](https://caricio.com/blog/an-exercise-in-agentic-coding-av1-encoder-from-scratch-in-rust/)
 - [Dealing with abandonware](https://blog.hris.to/dealing-with-abandonware.html)
