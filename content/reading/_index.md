@@ -8,6 +8,7 @@ draft: false
 ## Books
 |Title|Author|
 |-----|------|
+|[Handbook for New Employees](https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)|Valve|
 |Slaughterhouse-Five|Kurt Vonnegut|
 |For Whom the Bell Tolls|Ernest Hemingway|
 |The Razor's Edge|W. Somerset Maugham|
