@@ -6,7 +6,7 @@ date: 2026-03-10
 highlightSubtitle: true
 ---
 
-<div class="grid grid-cols-2 gap-6 mt-6">
+<div class="not-prose grid grid-cols-2 gap-6 mt-6">
     <div class="flex flex-col items-center gap-2">
         <div class="w-full h-48 overflow-hidden rounded-lg">
             <img src="/images/PVC_Cross_Joint.png" alt="PVC Cross Joint" class="w-full h-full object-cover rounded-lg" />
