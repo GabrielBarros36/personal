@@ -6,6 +6,12 @@ date: 2026-03-10
 highlightSubtitle: true
 ---
 
+TinkerCAD was presented to us as a tool an 8 year old might use instead of mainstream CAD software, but I didn't find it too bad. 
+
+I've used AutoCAD a lot in the past and it gives the user a lot more control and precision, and has built-in simulation tools and integration with other AutoDesk products like Fusion360. That said, AutoCAD also has a steep learning curve and it can be overkill for a first sketch ideas that may change completely. 
+
+I probably won't use TinkerCAD again but I'm happy we had to use it. Maybe I'm closer to an 8 year old's maturity than I thought.
+
 <div class="not-prose grid grid-cols-2 gap-6 mt-6">
     <div class="flex flex-col items-center gap-2">
         <div class="w-full h-48 overflow-hidden rounded-lg">
