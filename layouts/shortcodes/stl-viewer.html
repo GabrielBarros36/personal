@@ -1,0 +1,87 @@
+<div id="stl-container-{{ .Ordinal }}" style="width: 100%; height: 500px; border-radius: 0.5rem; overflow: hidden; background: #1a1a2e;">
+    <canvas id="stl-canvas-{{ .Ordinal }}" style="width: 100%; height: 100%;"></canvas>
+</div>
+{{ if .Get "caption" }}
+<p class="text-sm text-gray-500 text-center mt-2">{{ .Get "caption" }}</p>
+{{ end }}
+
+<script type="importmap">
+{
+    "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+    }
+}
+</script>
+<script type="module">
+import * as THREE from 'three';
+import { STLLoader } from 'three/addons/loaders/STLLoader.js';
+import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
+import * as BufferGeometryUtils from 'three/addons/utils/BufferGeometryUtils.js';
+
+const container = document.getElementById('stl-container-{{ .Ordinal }}');
+const canvas = document.getElementById('stl-canvas-{{ .Ordinal }}');
+
+const scene = new THREE.Scene();
+scene.background = new THREE.Color(0x1a1a2e);
+
+const camera = new THREE.PerspectiveCamera(50, container.clientWidth / container.clientHeight, 0.1, 1000);
+const renderer = new THREE.WebGLRenderer({ canvas, antialias: true });
+renderer.setSize(container.clientWidth, container.clientHeight);
+renderer.setPixelRatio(window.devicePixelRatio);
+
+const controls = new OrbitControls(camera, renderer.domElement);
+controls.enableDamping = true;
+controls.dampingFactor = 0.05;
+
+const ambientLight = new THREE.AmbientLight(0xffffff, 0.6);
+scene.add(ambientLight);
+const dirLight1 = new THREE.DirectionalLight(0xffffff, 0.8);
+dirLight1.position.set(1, 1, 1);
+scene.add(dirLight1);
+const dirLight2 = new THREE.DirectionalLight(0xffffff, 0.4);
+dirLight2.position.set(-1, -1, -1);
+scene.add(dirLight2);
+
+const loader = new STLLoader();
+loader.load('{{ .Get "src" }}', function (geometry) {
+    geometry = BufferGeometryUtils.mergeVertices(geometry, 0.1);
+    geometry.computeVertexNormals();
+
+    const material = new THREE.MeshPhongMaterial({
+        color: 0x4a90d9,
+        specular: 0x222222,
+        shininess: 80,
+        side: THREE.DoubleSide
+    });
+    const mesh = new THREE.Mesh(geometry, material);
+
+    geometry.computeBoundingBox();
+    const center = new THREE.Vector3();
+    geometry.boundingBox.getCenter(center);
+    mesh.position.sub(center);
+
+    const size = new THREE.Vector3();
+    geometry.boundingBox.getSize(size);
+    const maxDim = Math.max(size.x, size.y, size.z);
+    const scale = 100 / maxDim;
+    mesh.scale.set(scale, scale, scale);
+
+    scene.add(mesh);
+    camera.position.set(0, 80, 150);
+    controls.update();
+});
+
+function animate() {
+    requestAnimationFrame(animate);
+    controls.update();
+    renderer.render(scene, camera);
+}
+animate();
+
+window.addEventListener('resize', () => {
+    camera.aspect = container.clientWidth / container.clientHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(container.clientWidth, container.clientHeight);
+});
+</script>
