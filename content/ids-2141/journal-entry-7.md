@@ -17,3 +17,9 @@ This cable holder hooks onto the back of my desk. The top part extends far forwa
 
 {{< stl-viewer src="/models/cable-holder_v011.stl" caption="Cable Holder" >}}
 
+## T-Slot Rail
+{{< stl-viewer src="/models/tslot-rail_v001.stl" caption="T-Slot Rail" >}}
+
+## T-Slot Block
+{{< stl-viewer src="/models/tslot-block_v001.stl" caption="T-Slot Block" >}}
+
