@@ -11,5 +11,9 @@ Followed along the video tutorial linked in the wiki tutorial, leaning on the wi
 
 {{< stl-viewer src="/models/Tutorial_Object.stl" caption="FreeCAD Tutorial Object" >}}
 
-{{< stl-viewer src="/models/cable-holder_v010.stl" caption="Cable Holder" >}}
+
+## Cable Holder
+This cable holder hooks onto the back of my desk. The top part extends far forward so that the object's weight is shifted far forward,
+
+{{< stl-viewer src="/models/cable-holder_v011.stl" caption="Cable Holder" >}}
 
