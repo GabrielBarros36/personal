@@ -19,7 +19,8 @@ Making this was fairly simple - once I had an idea of the object I wanted to mak
 
 {{< stl-viewer src="/models/cable-holder_v011.stl" caption="Cable Holder" >}}
 
-{{< figure src="/images/IMG_6519.JPG" caption="My desk" >}}
+<img src="/images/IMG_6519.JPG" alt="My desk" class="rounded-lg mx-auto" />
+<p class="text-sm text-gray-500 text-center mt-2">My desk</p>
 
 ## T-Slot Rail + Block
 These objects are inherently useless but they do fit together. They were far simpler to make than the previous two - the reason why is probably obvious.
