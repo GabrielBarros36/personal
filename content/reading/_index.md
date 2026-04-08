@@ -31,6 +31,7 @@ draft: false
 - Self Reliance, by Ralph Waldo Emerson
 
 ## Blogs/Articles
+= [Why You Should Become an "Intrapreneur"](https://archive.is/rTcTp)
 - [Valve - Handbook for New Employees](https://cdn.fastly.steamstatic.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
 - [Vercel - We Ralph Wiggumed WebStreams to make them 10x faster](https://vercel.com/blog/we-ralph-wiggumed-webstreams-to-make-them-10x-faster)
 - [Armin Ronacher - Pi: The Minimal Agent Within OpenClaw](https://lucumr.pocoo.org/2026/1/31/pi/)
