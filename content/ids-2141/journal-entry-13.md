@@ -2,7 +2,7 @@
 title: "Journal Entry 13"
 subtitle: "Virtual Reality Project"
 category: ids-2141
-date: 2026-04-28
+date: 2026-04-28T12:00:00
 highlightSubtitle: true
 ---
 
